@@ -1,0 +1,21 @@
+{
+    "name": "amjenoch",
+    "displayName": "amjenoch ",
+    "description": "placeholder",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "amjenoch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amjenoch-color-theme.json"
+            }
+        ]
+    }
+}
