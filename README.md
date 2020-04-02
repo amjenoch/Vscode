@@ -8,6 +8,7 @@
 
 _`Etapes `_
 
+_`
 --cloner le fichier
 
 --Entrer dans le dossier cacher <.vscode> sur votre odrinateur
@@ -15,6 +16,8 @@ _`Etapes `_
 -- Cliquer sur extensions 
 
 --copier le fichier cloner dans extensions
+ `_
+
 
 
 `--Redemarrer votre vscode 
