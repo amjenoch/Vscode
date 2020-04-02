@@ -8,19 +8,18 @@
 
 _`Etapes `_
 
-_`
---cloner le fichier
-
---Entrer dans le dossier cacher <.vscode> sur votre odrinateur
-
--- Cliquer sur extensions 
-
---copier le fichier cloner dans extensions
- `_
+_`--cloner le fichier `_
 
 
+_`--Entrer dans le dossier cacher <.vscode> sur votre odrinateur`_
 
-`--Redemarrer votre vscode 
---Cliquez sur color thème 
+_`-- Cliquer sur extensions `_
 
---Choisissiez comme theme amjenoch`
+_`--copier le fichier cloner dans extensions`_
+
+
+
+_`--Redemarrer votre vscode`_
+_`--Cliquez sur color thème `_
+
+_`--Choisissiez comme theme amjenoch`_
